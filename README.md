@@ -1,4 +1,4 @@
-# ARCS-Active-Role-Control-System-
+# ARCS-Active-Rocket-Control-System-
 
 Precision in flight stability is a fundamental requirement for high-powered rocketry, directly influencing both mission safety and performance outcomes. Roll instability, in particular, can degrade aerodynamic efficiency, increase structural loading, and induce trajectory dispersions that compromise recovery reliability and payload success. Slender body rockets can be more inclined to experience unpredicted trajectories due to high roll rates. 
 
